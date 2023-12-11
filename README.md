@@ -23,9 +23,13 @@ Me desempeño en el área de  análisis de datos , aplicación de modelos estad�
 # TECH SKILLS
 
 -PYTHON
+
 -MATLAB
+
 -POWER BI
+
 -MYSQL
+
 -PYSPARK
 
 # REDES SOCIALES
