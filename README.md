@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # ABOUT ME
 
 -Mi nombre es Yesica, soy estudiante  y practicante de matematicas . 
-Actualmente estoy cursando la carrera de Data science en Henry Soy una persona apasionada por los números y la programación. La paciencia y perseverancia me ayudan a lograr el propósito esperado.
+Actualmente estoy cursando la carrera de Data science en HENRY Soy una persona apasionada por los números y la programación. La paciencia y perseverancia me ayudan a lograr el propósito esperado.
 Me desempeño en el área de  análisis de datos , aplicación de modelos estadísticos, y machine learning;  considero que los retos y desafíos que pueda enfrentar , son oportunidades de continuo aprendizaje.
 
 # TECH SKILLS
