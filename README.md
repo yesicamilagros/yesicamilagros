@@ -14,10 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ABOUT ME
+
 -Mi nombre es Yesica, soy estudiante  y practicante de matematicas . 
 Actualmente estoy cursando la carrera de Data science en Henry Soy una persona apasionada por los números y la programación. La paciencia y perseverancia me ayudan a lograr el propósito esperado.
 Me desempeño en el área de  análisis de datos , aplicación de modelos estadísticos, y machine learning;  considero que los retos y desafíos que pueda enfrentar , son oportunidades de continuo aprendizaje.
 
+# TECH SKILLS
+
+-PYTHON
+-MATLAB
+-POWER BI
+-MYSQL
+-PYSPARK
+
+# REDES SOCIALES
 [mi linkedin](www.linkedin.com/in/yesica-leon-ccahuana-1706a7216)
 
-[mi gmail](agrostopo@gmail.com)
