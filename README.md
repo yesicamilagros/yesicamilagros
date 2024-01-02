@@ -33,7 +33,7 @@ Me desempeño en el área de  análisis de datos , aplicación de modelos estad�
 -PYSPARK
 
 # REDES SOCIALES
-[mi linkedin](www.linkedin.com/in/yesica-leon-ccahuana-1706a7216)
+[mi linkedin](https://www.linkedin.com/in/yesica-leon-ccahuana-1706a7216/)
 
 [Facebook](https://www.facebook.com/yesica.leon.733?locale=es_LA)
 
