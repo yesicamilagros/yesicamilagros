@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # ABOUT ME
 
--Mi nombre es Yesica, soy una profesional de matematicas . 
-Actualmente culmine la carrera de Data Science ,Soy una persona apasionada por los números y la programación. La paciencia y perseverancia me ayudan a lograr el propósito esperado.
-Me desempeño en el área de  análisis de datos , aplicación de modelos estadísticos, y machine learning;  considero que los retos y desafíos que pueda enfrentar , son oportunidades de continuo aprendizaje.
+-
+My name is Yesica. I'm passionate about numbers and programming. Patience and perseverance help me achieve my goals.
+My expertise in data analysis, application of statistical models, and machine learning; I consider the challenges I face as opportunities for continuous learning
 
 # TECH SKILLS
 
